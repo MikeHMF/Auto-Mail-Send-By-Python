@@ -24,7 +24,7 @@ ziwaixian = insert(soup.select('.li1')[0].p.text, "噢~")
 ganmao = insert(soup.select('.li2')[0].p.text, "哟~")
 tianqi = soup.select('.li3')[0].a.span.text
 chuanyi = soup.select('.li3')[0].a.p.text
-yundong = insert(soup.select('.li5')[0].p.text, "噢~")
+yundong = soup.select('.li5')[0].span.text + " 。所以" + insert(soup.select('.li5')[0].p.text, "噢~")
 wuran = soup.select('.li6')[0].span.text
 wuranjianyi = insert(soup.select('.li6')[0].p.text, "哟~")
 #timeSource = soup.select('.time-source')[0].contents[0].strip()
@@ -86,13 +86,13 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "<b>接下来为您播报今天成都的天气情况：</b>" + "<br>" + \
       "    整体温度：" + temLow + "～" + temHigh + tianqi + "噢~所以" + chuanyi + "不要忘记啦！" + "<br>" +\
       "    感冒指数：" + ganmao + "<br>" +  \
-      "    运动指数：因为" + yundong + "<br>" + \
+      "    运动指数：今天的运动情况是" + yundong + "<br>" + \
       "    空气污染：程度" + wuran + "。" + "所以" + wuranjianyi + "<br>" + \
       "    紫外线指数：" + ziwaixian + "<br><br>" + \
       "<b>今日双鱼座的星座运势是：</b>" + "<br>" + \
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>"+ "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=34033985" + ">" + "La Vida Seguirá - Alvaro Soler" + "</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=27483167" + ">" + "唯一 - 王力宏" + "</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
