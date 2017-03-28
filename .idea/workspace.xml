@@ -24,8 +24,8 @@
       <file leaf-file-name="info.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+            <state relative-caret-position="646">
+              <caret line="95" column="118" lean-forward="false" selection-start-line="95" selection-start-column="118" selection-end-line="95" selection-end-column="118" />
               <folding>
                 <element signature="e#14#24#0" expanded="true" />
               </folding>
@@ -48,7 +48,7 @@
       <file leaf-file-name="mulitMail.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mulitMail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="450">
               <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
@@ -117,8 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -385,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490539143540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="歌曲">
+      <created>1490618713319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490618713319</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -898,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mulitMail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="450">
           <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
@@ -908,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="95" column="118" lean-forward="false" selection-start-line="95" selection-start-column="118" selection-end-line="95" selection-end-column="118" />
           <folding>
             <element signature="e#14#24#0" expanded="true" />
           </folding>

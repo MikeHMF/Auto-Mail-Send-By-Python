@@ -93,6 +93,6 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>"+ "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=27483167" + ">" + "唯一 - 王力宏" + "</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=438803482" + ">" + "Versace on the Floor - Bruno Mars" + "</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
