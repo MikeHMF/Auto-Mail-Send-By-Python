@@ -93,6 +93,6 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>"+ "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=468490178" + ">" + "The One - The Chainsmokers" + "</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=17654232" + ">" + "Lights - Ellie Goulding" + "</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
