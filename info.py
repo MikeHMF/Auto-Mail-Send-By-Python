@@ -69,8 +69,8 @@ xiaohua = soup3.select('#text110')[0].find_all("p")[(d2-d1).days - 69].text[2:]
 # soup4 = BeautifulSoup(sample4, 'html.parser')
 # songUrl = "http://music.163.com/#/" + soup4.select('a')[(d2-d1).days - 72]["href"]
 # songName = soup4.select('a')[0].text
-
-
+songName = ['关系妄想 - 李智', 'Hello My Love - Cindy Santini', '我真的需要 - 鲍家街43号']
+songUrl = ['http://music.163.com/#/song?id=29793885', 'http://music.163.com/#/song?id=2409484', 'http://music.163.com/#/song?id=344362']
 
 
 res6 = requests.get("http://www.lizhi.fm/233233/")
@@ -93,6 +93,6 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>"+ "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=" + "http://music.163.com/#/song?id=17654232" + ">" + "Lights - Ellie Goulding" + "</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=" + songName[(d2-d1).days - 85] + ">" + songUrl[(d2-d1).days - 85] + "</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
