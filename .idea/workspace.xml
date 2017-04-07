@@ -24,8 +24,8 @@
       <file leaf-file-name="info.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="92" column="68" lean-forward="false" selection-start-line="92" selection-start-column="68" selection-end-line="92" selection-end-column="68" />
+            <state relative-caret-position="676">
+              <caret line="93" column="33" lean-forward="true" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
               <folding>
                 <element signature="e#14#24#0" expanded="true" />
               </folding>
@@ -48,7 +48,7 @@
       <file leaf-file-name="mulitMail.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mulitMail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-524">
+            <state relative-caret-position="60">
               <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
@@ -434,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491404818989</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="歌曲">
+      <created>1491489305335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491489305335</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -947,7 +954,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mulitMail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
+        <state relative-caret-position="60">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
@@ -957,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="92" column="68" lean-forward="false" selection-start-line="92" selection-start-column="68" selection-end-line="92" selection-end-column="68" />
+        <state relative-caret-position="676">
+          <caret line="93" column="33" lean-forward="true" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
           <folding>
             <element signature="e#14#24#0" expanded="true" />
           </folding>
