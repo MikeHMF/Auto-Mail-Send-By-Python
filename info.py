@@ -28,8 +28,8 @@ yundong = soup.select('.li5')[0].span.text + " 。所以" + insert(soup.select('
 wuran = soup.select('.li6')[0].span.text
 wuranjianyi = insert(soup.select('.li6')[0].p.text, "哟~")
 #timeSource = soup.select('.time-source')[0].contents[0].strip()
-temLow = soup.select('.tem')[0].find_all('span')[0].text + "℃"
-temHigh = soup.select('.tem')[1].find_all('span')[0].text + "℃。"
+temLow = soup.select('.tem')[0].find_all('span')[0].text + "℃。"
+temHigh = soup.select('.tem')[1].find_all('span')[0].text + "℃"
 
 """
 情话
@@ -54,11 +54,11 @@ xingzuo = soup2.select('div.words')[0].find_all("p")[3].text
 笑话
 """
 
-res3 = requests.get("http://www.jokeji.cn/jokehtml/ym/2017022816222431.htm")
+res3 = requests.get("http://www.jokeji.cn/jokehtml/ym/201703141340521.htm")
 res3.encoding = "gbk"
 sample3 = res3.text
 soup3 = BeautifulSoup(sample3, 'html.parser')
-xiaohua = soup3.select('#text110')[0].find_all("p")[(d2-d1).days - 69].text[2:]
+xiaohua = soup3.select('#text110')[0].find_all("p")[(d2-d1).days - 91].text[2:]
 
 
 """
@@ -81,15 +81,15 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    早上好，今天是你跟<b>王清野</b>在一起的<b>第" + day +"天</b>噢~" + "<br><br>" +\
       "    今天他想对你说的话是：" + qinghua + "<br><br>" + \
       "<b>接下来为您播报今天成都的天气情况：</b>" + "<br>" + \
-      "    整体温度：" + temLow + "～" + temHigh + tianqi + "噢~所以" + chuanyi + "不要忘记啦！" + "<br>" +\
+      "    整体温度：" + temHigh + "～" + temLow + tianqi + "噢~所以" + chuanyi + "不要忘记啦！" + "<br>" +\
       "    感冒指数：" + ganmao + "<br>" +  \
       "    运动指数：今天的运动情况是" + yundong + "<br>" + \
       "    空气污染：程度" + wuran + "。" + "所以" + wuranjianyi + "<br>" + \
       "    紫外线指数：" + ziwaixian + "<br><br>" + \
       "<b>今日双鱼座的星座运势是：</b>" + "<br>" + \
       "    " + xingzuo[2:] + "<br><br>" + \
-      "<b>再送上笑话一则：</b>"+ "<br>" + \
+      "<b>再送上笑话一则：</b>" + "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=167561>潮起潮落是什么都不为 - 谢天笑</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=30706076>Goodbye- Who Is Fancy</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
