@@ -5,8 +5,8 @@ from email.mime.image import MIMEImage
 from info import *
 import smtplib
 
-mail_list = ["5983495@qq.com"]
-#mail_list = ["513234541@qq.com"]
+#mail_list = ["5983495@qq.com"]
+mail_list = ["513234541@qq.com"]
 mail_host = "smtp.qq.com"
 mail_user = "329103586"
 mail_pass = "gqfumcntovhfbjgc"
