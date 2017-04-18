@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/info.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="646">
-              <caret line="93" column="68" lean-forward="false" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
+              <caret line="93" column="92" lean-forward="false" selection-start-line="93" selection-start-column="92" selection-end-line="93" selection-end-column="92" />
               <folding>
                 <element signature="e#14#24#0" expanded="true" />
               </folding>
@@ -117,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,6 +131,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -497,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492101048364</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="歌曲">
+      <created>1492179602525</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1492179602525</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -993,7 +1000,7 @@
     <entry file="file://$PROJECT_DIR$/info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="93" column="68" lean-forward="false" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
+          <caret line="93" column="92" lean-forward="false" selection-start-line="93" selection-start-column="92" selection-end-line="93" selection-end-column="92" />
           <folding>
             <element signature="e#14#24#0" expanded="true" />
           </folding>
