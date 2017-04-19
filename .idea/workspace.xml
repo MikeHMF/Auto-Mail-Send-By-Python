@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/info.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="646">
-              <caret line="93" column="92" lean-forward="false" selection-start-line="93" selection-start-column="92" selection-end-line="93" selection-end-column="92" />
+              <caret line="93" column="76" lean-forward="false" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
               <folding>
                 <element signature="e#14#24#0" expanded="true" />
               </folding>
@@ -131,8 +131,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -504,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492179602525</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="歌曲">
+      <created>1492532075219</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1492532075219</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1000,7 +1007,7 @@
     <entry file="file://$PROJECT_DIR$/info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="93" column="92" lean-forward="false" selection-start-line="93" selection-start-column="92" selection-end-line="93" selection-end-column="92" />
+          <caret line="93" column="76" lean-forward="false" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
           <folding>
             <element signature="e#14#24#0" expanded="true" />
           </folding>
