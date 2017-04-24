@@ -91,6 +91,6 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>" + "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=445867459>This Town- Goldhouse</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=5120906>Casablanca- Bertie Higgins</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
