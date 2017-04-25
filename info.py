@@ -78,6 +78,7 @@ fmUrl = "http://www.lizhi.fm" + soup6.find_all("a", attrs={"data-band": "233233"
 fmName = soup6.find_all("a", attrs={"data-band": "233233"})[0].select("p.audioName")[0].text
 
 id_ = "music.163.com/#/song?id=37196629"
+casablanca = "Casablanca"
 content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    早上好，今天是你跟<b>王清野</b>在一起的<b>第" + day +"天</b>噢~" + "<br><br>" +\
       "    今天他想对你说的话是：" + qinghua + "<br><br>" + \
@@ -91,6 +92,6 @@ content1= "亲爱的<b>李琳垚</b>:" + "<br>" +\
       "    " + xingzuo[2:] + "<br><br>" + \
       "<b>再送上笑话一则：</b>" + "<br>" + \
       "" + xiaohua + "<br><br>" + \
-      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=5120906>Casablanca- Bertie Higgins</a><br><br>" + \
+      "<b>今日歌曲一首</b>：<a href=http://music.163.com/#/song?id=5120906>The Ocean- Mike Perry</a><br><br>" + \
       "<b>最后也是最重要的</b>：" + "<br>"
 
