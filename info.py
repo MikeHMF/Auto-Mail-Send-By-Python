@@ -54,11 +54,11 @@ xingzuo = soup2.select('div.words')[0].find_all("p")[3].text
 笑话
 """
 
-res3 = requests.get("http://www.jokeji.cn/jokehtml/ym/201703141340521.htm")
+res3 = requests.get("http://www.jokeji.cn/jokehtml/ym/2017032820112278.htm")
 res3.encoding = "gbk"
 sample3 = res3.text
 soup3 = BeautifulSoup(sample3, 'html.parser')
-xiaohua = soup3.select('#text110')[0].find_all("p")[(d2-d1).days - 91].text[2:]
+xiaohua = soup3.select('#text110')[0].find_all("p")[(d2-d1).days - 111].text[2:]
 
 
 """
